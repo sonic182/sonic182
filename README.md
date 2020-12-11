@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- :cat2: :octocat: [octo]cat's lover
+- :octocat: :cat2: [octo]cat's lover
 - :mailbox: How to reach me: www.mogollon.com.ve
 - :heart: I do like http communications and databases
 
