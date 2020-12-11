@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [Doofinder](https://www.doofinder.com/)
-- 📫 How to reach me: www.mogollon.com.ve
+- :office: I’m currently working at [Doofinder](https://www.doofinder.com/)
+- :mailbox: How to reach me: www.mogollon.com.ve
 - :heart: I do like http communications and databases
 
 ### Some Stats
